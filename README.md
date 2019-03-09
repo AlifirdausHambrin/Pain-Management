@@ -1,4 +1,4 @@
-# hello-world
-tutorial purpose
+# Important notes
 
-Hi my name is Alifirdaus. This is my first time using GitHub
+1. Always make a new branch if you want to make any changes to the master branch or any files.
+
